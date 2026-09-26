@@ -1,0 +1,7 @@
+.streamlit/
+studentai.db
+*_backup.py
+__pycache__/
+*.pyc
+cd
+python
